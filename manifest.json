@@ -1,0 +1,27 @@
+{
+    "browser_specific_settings": {
+        "gecko": {
+            "strict_min_version": "58.0a1"
+        }
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "48": "shazam.png",
+        "96": "shazam@2x.png"
+    },
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "WWW Tags",
+        "default_popup": "tabs.html"
+    },
+    "description": "A basic Add-on to quickly open WWW Tags Site on your browser.",
+    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs",
+    "manifest_version": 2,
+    "name": "WWW Tags",
+    "permissions": [
+        "tabs"
+    ],
+    "version": "1.0"
+}

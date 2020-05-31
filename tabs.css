@@ -1,0 +1,44 @@
+.text-section-header,
+a {
+    text-align: center;
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.button {
+    margin: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    background-color: #4791d0;
+    border-radius: 5px;
+    border: 1px solid #4791d0;
+    padding: 5px 10px 8px 10px;
+}
+
+.button:hover {
+    background-color: #0F5897;
+    border: 1px solid #0F5897;
+}
+
+html,
+body {
+    width: 350px;
+    background-color: whitesmoke;
+}
+
+.panel {
+    margin: 5px;
+}
+
+.panel-section-separator {
+    width: 100%;
+}
