@@ -17,7 +17,7 @@
         "default_popup": "tabs.html"
     },
     "description": "A basic Add-on to quickly open WWW Tags Site on your browser.",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/tabs-tabs-tabs",
+    "homepage_url": "https://github.com/mianmuneebajaz/WWW-Site-Firefox-Add-on",
     "manifest_version": 2,
     "name": "WWW Tags",
     "permissions": [
