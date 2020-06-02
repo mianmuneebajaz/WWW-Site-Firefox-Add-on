@@ -32,7 +32,10 @@ a {
 html,
 body {
     width: 350px;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
+    background-image: url('background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .panel {
